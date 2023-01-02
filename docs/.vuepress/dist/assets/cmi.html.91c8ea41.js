@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-77680d82","path":"/plugins/cmi.html","title":"Flygtid","lang":"sv-SE","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1663310132000,"contributors":[{"name":"Macckkan","email":"macko9595@gmail.com","commits":1}]},"filePathRelative":"plugins/cmi.md"}');export{t as data};
