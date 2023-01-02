@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-69f4924a","path":"/plugins/chestshop.html","title":"Skapa en affär","lang":"sv-SE","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1663310132000,"contributors":[{"name":"Macckkan","email":"macko9595@gmail.com","commits":1}]},"filePathRelative":"plugins/chestshop.md"}');export{a as data};

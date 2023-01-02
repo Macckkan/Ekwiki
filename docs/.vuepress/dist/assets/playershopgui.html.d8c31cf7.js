@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-508ee75d","path":"/plugins/playershopgui.html","title":"Skapa personlig affär","lang":"sv-SE","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1663310132000,"contributors":[{"name":"Macckkan","email":"macko9595@gmail.com","commits":1}]},"filePathRelative":"plugins/playershopgui.md"}');export{a as data};

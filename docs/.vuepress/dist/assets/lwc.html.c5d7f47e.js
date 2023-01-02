@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2513de29","path":"/plugins/lwc.html","title":"Lås kistor & ugnar","lang":"sv-SE","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1663310132000,"contributors":[{"name":"Macckkan","email":"macko9595@gmail.com","commits":1}]},"filePathRelative":"plugins/lwc.md"}');export{t as data};

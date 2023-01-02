@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,a as e,b as c}from"./app.18776f70.js";const o={},s=e("h1",{id:"vara",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#vara","aria-hidden":"true"},"#"),c(" våra")],-1),_=[s];function n(d,i){return r(),t("div",null,_)}const l=a(o,[["render",n],["__file","våra.html.vue"]]);export{l as default};
