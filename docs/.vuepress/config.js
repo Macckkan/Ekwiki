@@ -5,7 +5,7 @@ export default defineUserConfig({
   lang: 'sv-SE',
   title: 'Ekstammen Wiki',
   description: 'Ekstammen wiki',
-  base: '/',
+  base: '/Ekwiki/',
   head: [
     ['meta', { charset: 'utf-8' }],
     ['link', { rel: 'icon', href: 'favicon.png' }],
